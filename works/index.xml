@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on João Da Silva</title>
-    <link>http://jsilva.github.io/works/</link>
+    <link>https://jsilva.github.io/works/</link>
     <description>Recent content in Works on João Da Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Sep 2016 18:14:22 +0200</lastBuildDate>
-    <atom:link href="http://jsilva.github.io/works/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jsilva.github.io/works/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
-      <link>http://jsilva.github.io/works/</link>
+      <link>https://jsilva.github.io/works/</link>
       <pubDate>Thu, 15 Sep 2016 18:14:22 +0200</pubDate>
       
-      <guid>http://jsilva.github.io/works/</guid>
+      <guid>https://jsilva.github.io/works/</guid>
       <description></description>
     </item>
     
