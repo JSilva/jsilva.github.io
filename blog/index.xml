@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on João Da Silva</title>
-    <link>http://jsilva.github.io/imjsilva/blog/</link>
+    <link>http://jsilva.github.io/blog/</link>
     <description>Recent content in Blogs on João Da Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Sep 2016 18:16:24 +0200</lastBuildDate>
-    <atom:link href="http://jsilva.github.io/imjsilva/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jsilva.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>akka notes</title>
-      <link>http://jsilva.github.io/imjsilva/blog/akka-notes/</link>
+      <link>http://jsilva.github.io/blog/akka-notes/</link>
       <pubDate>Mon, 19 Sep 2016 18:16:24 +0200</pubDate>
       
-      <guid>http://jsilva.github.io/imjsilva/blog/akka-notes/</guid>
+      <guid>http://jsilva.github.io/blog/akka-notes/</guid>
       <description>
 
 &lt;h1 id=&#34;akka-notes&#34;&gt;Akka notes&lt;/h1&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Scala Type covariance and contravariance</title>
-      <link>http://jsilva.github.io/imjsilva/blog/scala-type-covariance-and-contravariance/</link>
+      <link>http://jsilva.github.io/blog/scala-type-covariance-and-contravariance/</link>
       <pubDate>Tue, 19 Jul 2016 18:16:24 +0200</pubDate>
       
-      <guid>http://jsilva.github.io/imjsilva/blog/scala-type-covariance-and-contravariance/</guid>
+      <guid>http://jsilva.github.io/blog/scala-type-covariance-and-contravariance/</guid>
       <description>
 
 &lt;h2 id=&#34;type-covariance-and-contravariance&#34;&gt;Type Covariance and Contravariance&lt;/h2&gt;
